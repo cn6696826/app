@@ -1,0 +1,9 @@
+version: 0.1.1
+files:
+  - url: MyApp Setup 0.1.1.exe
+    sha512: f96PEYwO8QkSRy4njVOiklmzWcKeKc9cKaJyM7mSio2sNX55bwE0tyOx8P6YSkYp03Drv9G5SurPw0k2D2ijBw==
+    size: 36793855
+path: MyApp Setup 0.1.1.exe
+sha512: f96PEYwO8QkSRy4njVOiklmzWcKeKc9cKaJyM7mSio2sNX55bwE0tyOx8P6YSkYp03Drv9G5SurPw0k2D2ijBw==
+sha2: 827faf51367c062d8709e840ec87f9abed7acd0f28932c8822b9c4a0140f25eb
+releaseDate: '2018-04-02T09:30:52.227Z'
